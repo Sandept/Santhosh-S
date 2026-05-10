@@ -14,24 +14,12 @@
 
 # 😎 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br/>
+<img align="right" alt="Coding GIF" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<img align="left" alt="Portfolio" width="360" src="Portfolio.png"/>
 
 <br/>
-
-🎓 &nbsp;**Computer Science & Electronic Student**<br/>
-📍 &nbsp;**Located in Bangalore , India** 🇮🇳  
-🎯 &nbsp;**Built 3 Web Application** [ Personal Projects ]<br/>
-🛠️ &nbsp;Tinkering with **Arduino & IoT**  
-🌱 &nbsp;Passionate about **turning idea data into real insights**  
-🤝 &nbsp;Open to **Collabs, Projects & Internships**  
-📬 &nbsp;**Inbox always open** : let's build something great!  
-☕ &nbsp;Fuelled by **Coffee + Curiosity**  
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1000&color=A78BFA&vCenter=true&width=500&lines=Turning+Data+into+Decisions+📊;Building+Solutions+That+Matter+🚀;Exploring+AI+%26+Machine+Learning+🤖;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
-
-<br clear="right"/>
 
 <div align="center">
 <picture>
